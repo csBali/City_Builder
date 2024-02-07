@@ -51,13 +51,13 @@ Youtube videó: https://www.youtube.com/watch?v=ve_PdvcHhAM
 ## CI/CD
 
 **Test Code Coverage** <br>
-https://szofttech-ab-2023.szofttech.gitlab-pages.hu/group-10/sajtoskifli/city_builder/coverage_report.html
+https://hall-of-fame.szofttech.gitlab-pages.hu/city_builder/coverage_report.html
 
 **Static Code Analysis** <br>
-https://szofttech-ab-2023.szofttech.gitlab-pages.hu/group-10/sajtoskifli/city_builder/cppcheck_analysis/index.html
+https://hall-of-fame.szofttech.gitlab-pages.hu/city_builder/cppcheck_analysis/index.html
 
 **Generated Documentation** <br>
-https://szofttech-ab-2023.szofttech.gitlab-pages.hu/group-10/sajtoskifli/city_builder/doxygen_documentation/index.html
+https://hall-of-fame.szofttech.gitlab-pages.hu/city_builder/doxygen_documentation/index.html
 
 ## Felhasznált külső szoftverek
 
